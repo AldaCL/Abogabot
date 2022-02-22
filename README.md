@@ -17,6 +17,6 @@ El presente documento, representa una plantilla común sobre la cual se desarrol
 
 ### Enlace
 
-Este documento explica a detalle e ilustra la forma de levantar requerimientos técnicos ante un proveedor de software, es recomendable mantener como fuente de consulta los estándares técnicos para la solicitud de requerimientos de software, como por ejemplo el estándar  [!http://www.cse.msu.edu/~cse870/IEEEXplore-SRS-template.pdf](**IEEE 870**).
+Este documento explica a detalle e ilustra la forma de levantar requerimientos técnicos ante un proveedor de software, es recomendable mantener como fuente de consulta los estándares técnicos para la solicitud de requerimientos de software, como por ejemplo el estándar (**IEEE 870**)[!http://www.cse.msu.edu/~cse870/IEEEXplore-SRS-template.pdf]
 
 
